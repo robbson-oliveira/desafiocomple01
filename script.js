@@ -1,4 +1,4 @@
-/* Desafio Complementar
+/* Desafio Complementar 01
 
 var name = prompt("Qual o seu nome?");
 console.log("Olá, " + name + "!");
